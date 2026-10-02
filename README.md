@@ -10,7 +10,9 @@
 Student of Software Engineering at Sir Syed University. I build web apps and AI automation workflows, and I'm currently leveling up on backend development with Python, FastAPI and PostgreSQL.
 
 🔭 **Working on:** backend APIs, AI automation (n8n, Ollama)
+
 🌱 **Learning:** Python, FastAPI, PostgreSQL, Docker
+
 💬 **Ask me about:** JavaScript, TypeScript, Firebase, web development
 
 ### 🛠️ Tech Stack
