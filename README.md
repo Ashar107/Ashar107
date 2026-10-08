@@ -42,5 +42,5 @@ Long-term goal: AI Infrastructure Engineer. Building a strong systems foundation
 ![Top Langs](https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ashar107&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashar-ali-mughal-7b3604291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashar-mughal-7b3604291)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asharalimughal061@gmail.com)
