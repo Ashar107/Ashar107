@@ -43,5 +43,5 @@ Long-term goal: AI Infrastructure Engineer. Building a strong systems foundation
 
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-](www.linkedin.com/in/ashar-mughal-7b3604291)
+](www.linkedin.com/in/ashar-ali-mughal-7b3604291)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asharalimughal061@gmail.com)
