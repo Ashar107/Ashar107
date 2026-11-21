@@ -1,6 +1,6 @@
 # Hi, I'm Ashar 👋
 
-**Cloud & Data Engineer (in progress) · AI Automation Freelancer**
+**Cloud & Data Engineer (in progress) · AI Automation Freelancer**  
 Karachi, Pakistan · Open to junior cloud / data engineering roles and freelance projects
 
 I build data pipelines, cloud-deployed apps and AI automation workflows. My main focus right now is **cloud and data engineering**. Long-term, I'm heading toward **AI infrastructure** and systems programming.
